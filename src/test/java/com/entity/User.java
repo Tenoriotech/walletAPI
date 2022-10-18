@@ -1,4 +1,4 @@
-package com.wallet.entity;
+package com.entity;
 
 import lombok.Data;
 

@@ -1,7 +1,6 @@
-package com.wallet.repository;
+package com.repository;
 
-import com.wallet.entity.User;
-import org.springframework.boot.autoconfigure.security.SecurityProperties;
+import com.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
